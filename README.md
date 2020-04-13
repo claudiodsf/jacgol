@@ -1,5 +1,5 @@
 # JACGOL
-## Just Another Conway Game Of Life
+## Just Another Conway's Game Of Life
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/claudiodsf/jacgol/master?filepath=JACGOL.ipynb)
 
